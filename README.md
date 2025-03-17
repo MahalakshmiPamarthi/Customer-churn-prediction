@@ -1,1 +1,1 @@
-# Customer-churn-prediction
+# Spam-SMS-Detection
